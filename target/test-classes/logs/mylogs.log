@@ -1,0 +1,41 @@
+06/160/2020-08 11:39:54 INFO  BaseClassFinder:34 - Opening url: http://demo.automationtesting.in/Selectable.html
+06/160/2020-08 11:39:54 INFO  BaseClassFinder:36 - Expected url: http://demo.automationtesting.in/Selectable.html Actual Url: http://demo.automationtesting.in/Selectable.html
+06/160/2020-08 11:39:54 INFO  BaseClassFinder:120 - Element with locator: By.xpath: //a[@class='analystic' and (text()='Default Functionality ')] is found in page 
+06/160/2020-08 11:39:54 INFO  BaseClassFinder:126 - Returning WebElemen with loc: By.xpath: //a[@class='analystic' and (text()='Default Functionality ')]
+06/160/2020-08 11:40:01 INFO  BaseClassFinder:25 - Expected value of class is: ui-widget-content selected  and the actual value is: ui-widget-content selected
+06/160/2020-08 11:40:06 INFO  BaseClassFinder:25 - Expected value of class is: ui-widget-content selected  and the actual value is: ui-widget-content selected
+06/160/2020-08 11:40:06 INFO  BaseClassFinder:25 - Expected value of class is: ui-widget-content selected  and the actual value is: ui-widget-content selected
+06/160/2020-08 11:40:06 INFO  BaseClassFinder:25 - Expected value of class is: ui-widget-content selected  and the actual value is: ui-widget-content selected
+06/160/2020-08 11:40:06 INFO  BaseClassFinder:25 - Expected value of class is: ui-widget-content selected  and the actual value is: ui-widget-content selected
+06/160/2020-08 11:40:06 INFO  BaseClassFinder:25 - Expected value of class is: ui-widget-content selected  and the actual value is: ui-widget-content selected
+06/160/2020-08 11:40:06 INFO  BaseClassFinder:25 - Expected value of class is: ui-widget-content selected  and the actual value is: ui-widget-content selected
+06/160/2020-08 11:40:06 INFO  BaseClassFinder:120 - Element with locator: By.xpath: //a[@class='analystic' and (text()='Serialize ')] is found in page 
+06/160/2020-08 11:40:06 INFO  BaseClassFinder:126 - Returning WebElemen with loc: By.xpath: //a[@class='analystic' and (text()='Serialize ')]
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:35 - String to verify in field: You've selected: Readability
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:120 - Element with locator: By.xpath: //div[@id='Serialize']//p[@id='feedback'] is found in page 
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:126 - Returning WebElemen with loc: By.xpath: //div[@id='Serialize']//p[@id='feedback']
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:40 - Actual Text in UI: You've selected: Readability Expected verification text: You've selected: Readability
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:35 - String to verify in field: You've selected: Single Line Coding
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:120 - Element with locator: By.xpath: //div[@id='Serialize']//p[@id='feedback'] is found in page 
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:126 - Returning WebElemen with loc: By.xpath: //div[@id='Serialize']//p[@id='feedback']
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:40 - Actual Text in UI: You've selected: Single Line Coding Expected verification text: You've selected: Single Line Coding
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:35 - String to verify in field: You've selected: Method Chaining
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:120 - Element with locator: By.xpath: //div[@id='Serialize']//p[@id='feedback'] is found in page 
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:126 - Returning WebElemen with loc: By.xpath: //div[@id='Serialize']//p[@id='feedback']
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:40 - Actual Text in UI: You've selected: Method Chaining Expected verification text: You've selected: Method Chaining
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:35 - String to verify in field: You've selected: Cross Browser Testing
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:120 - Element with locator: By.xpath: //div[@id='Serialize']//p[@id='feedback'] is found in page 
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:126 - Returning WebElemen with loc: By.xpath: //div[@id='Serialize']//p[@id='feedback']
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:40 - Actual Text in UI: You've selected: Cross Browser Testing Expected verification text: You've selected: Cross Browser Testing
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:35 - String to verify in field: You've selected: Extent Reports
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:120 - Element with locator: By.xpath: //div[@id='Serialize']//p[@id='feedback'] is found in page 
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:126 - Returning WebElemen with loc: By.xpath: //div[@id='Serialize']//p[@id='feedback']
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:40 - Actual Text in UI: You've selected: Extent Reports Expected verification text: You've selected: Extent Reports
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:35 - String to verify in field: You've selected: Data Driven Testing
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:120 - Element with locator: By.xpath: //div[@id='Serialize']//p[@id='feedback'] is found in page 
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:126 - Returning WebElemen with loc: By.xpath: //div[@id='Serialize']//p[@id='feedback']
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:40 - Actual Text in UI: You've selected: Data Driven Testing Expected verification text: You've selected: Data Driven Testing
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:35 - String to verify in field: You've selected: Functional Testing
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:120 - Element with locator: By.xpath: //div[@id='Serialize']//p[@id='feedback'] is found in page 
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:126 - Returning WebElemen with loc: By.xpath: //div[@id='Serialize']//p[@id='feedback']
+06/160/2020-08 11:40:07 INFO  BaseClassFinder:40 - Actual Text in UI: You've selected: Functional Testing Expected verification text: You've selected: Functional Testing
